@@ -1,0 +1,88 @@
+.div {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: red;
+    border-bottom: 0;
+}
+
+.div2 {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: red;
+    border-top: 0;
+
+}
+
+.div3 {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: red;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.div32 {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: red;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+.div4 {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: red;
+    border-top: 0;
+}
+
+
+.bas {
+    font-size: 30px;
+}
+
+header {
+    background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614448355_142-p-fon-odnotonnii-temnii-184.jpg);
+}
+
+body {
+    background: url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614648520_81-p-fon-fortnait-dlya-fotoshopa-117.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    background-color: aqua;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img1 {
+    border: solid 5px red;
+    border-radius: 20px;
+    margin: 10px;
+}
+.h2 {
+    margin: 10px;
+}
+
+.op {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614448355_142-p-fon-odnotonnii-temnii-184.jpg);
+}
